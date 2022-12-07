@@ -12,60 +12,24 @@ main:
     url: /Contact/
   - title: "Resources"
     url: /Resources/
-docs:
-  - title: Bio-engineering
-    url: /Bioengineering/
-    children:
-    - title: "Biomaterials"
-      url: /Bio_materials/
-    - title: "Single-cell"
-      url: /Single_cell/
-      
-  - title: Education
-    url: /docs/configuration/
     
-  - title: Energy Materials
-    children:
-      - title: "Energy harvesting"
-        url: /docs/configuration/
-      - title: "Microbial fuel cells"
-        url: /docs/navigation/
-      - title: "Batteries"
-        url: /docs/navigation/  
+docs:
+  - title: Engineered surfaces
+    url: /EngineeredSurfaces/
+      
+  - title: Micro-nano particle manipulation
+    url: /Particle/
+    
+  - title: Functional surfaces
           
-  - title: Microfluidics
-    children:
-      - title: "Liquid manipulation"
-        url: /docs/configuration/
-      - title: "Porous media flow"
-        url: /docs/navigation/
+  - title: Sensors and detectors
         
-  - title: Smart Materials
-    children:
-      - title: "Hydrogels"
-        url: /docs/configuration/
-      - title: "Shape memory materials"
-        url: /docs/navigation/  
-      - title: "Metamaterials"
-        url: /docs/navigation/  
-      - title: "Soft materials"
-        url: /docs/navigation/  
-        
-  - title: Soft Matter Dynamics
+  - title: Wearables
     children:
       - title: "Phase change"
         url: /Phase_change/
       - title: "Wetting"
         url: /Wetting/
-        
-  - title: Smart Microsystems
-    children:
-      - title: "Electronics"
-        url: /docs/configuration/
-      - title: "Sensors"
-        url: /docs/navigation/  
-      - title: "Smart Wearables"
-        url: /docs/navigation/
-        
+              
   - title: Facilities/capabilities
     url: /Facilities/
