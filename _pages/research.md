@@ -15,9 +15,6 @@ The research group works on the following themes:<br>
   [Sensors and detectors](#SensorsDetectors){: .btn .btn--light-outline}
   [Wearables](#Wearables){: .btn .btn--light-outline}
   
-Our research facilities can be viewed below:<br>
-  [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--light-outline}
-  
 ## Engineered Surfaces <a id="EngineeredSurfaces"> 
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
@@ -36,3 +33,7 @@ Short description of the general research field<br>
   [Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--inverse}
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
   
+
+  
+Our research facilities can be viewed below:<br>
+  [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--light-outline}
