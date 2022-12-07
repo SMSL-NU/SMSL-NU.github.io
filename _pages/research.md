@@ -9,40 +9,30 @@ comments: true
 <a id="Top_of_page">
 
 The research group works on the following themes:<br>
-  [Bioengineering](#Bioengineering){: .btn .btn--light-outline}
-  [Education](#Education){: .btn .btn--light-outline}
-  [Energy materials](#Energy_materials){: .btn .btn--light-outline}
-  [Microfluidics](#Microfluidics){: .btn .btn--light-outline}
-  [Smart materials](#Smart_materials){: .btn .btn--light-outline}
-  [Soft matter](#Soft_matter){: .btn .btn--light-outline}
-  [Smart microsystems](#Smart_microsystems){: .btn .btn--light-outline}
+  [Engineered surfaces](#EngineeredSurfaces){: .btn .btn--light-outline}
+  [Micro-nano particle manipulation](#Particle){: .btn .btn--light-outline}
+  [Functional surfaces](#FunctionalSurfaces){: .btn .btn--light-outline}
+  [Sensors and detectors](#SensorsDetectors){: .btn .btn--light-outline}
+  [Wearables](#Wearables){: .btn .btn--light-outline}
   
 Our research facilities can be viewed below:<br>
   [Facilities/Capabilities]({{ site.url }}{{ site.baseurl }}/Facilities/){: .btn .btn--light-outline}
   
-## Bio-engineering <a id="Bioengineering"> 
+## Engineered Surfaces <a id="EngineeredSurfaces"> 
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
-## Education <a id="Education">
+## Micro-nano particle manipulation <a id="Particle">
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
-## Energy materials <a id="Energy_materials">
+## Functional surfaces <a id="FunctionalSurfaces">
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
-## Microfluidics <a id="Microfluidics">
+## Sensors and detectors <a id="SensorsDetectors">
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
-## Smart materials <a id="Smart_materials">
-  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
-
-## Soft matter dynamics <a id="Soft_matter">
+## Wearables <a id="Wearables">
 Short description of the general research field<br>
-[Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--inverse}
-[Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--inverse}
-
-[Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
-
-## Smart microsystems <a id="Smart_microsystems">
-[Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
-
+  [Phase change]({{ site.url }}{{ site.baseurl }}/Phase_change/){: .btn .btn--inverse}
+  [Wetting]({{ site.url }}{{ site.baseurl }}/Wetting/){: .btn .btn--inverse}
+  [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
   
