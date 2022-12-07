@@ -15,7 +15,7 @@ The research group works on the following themes:<br>
   [Sensors and detectors](#SensorsDetectors){: .btn .btn--light-outline}
   [Wearables](#Wearables){: .btn .btn--light-outline}
   
-## Engineered Surfaces <a id="EngineeredSurfaces"> 
+## Engineered surfaces <a id="EngineeredSurfaces"> 
   [Navigate to top](#Top_of_page){: .btn .btn--light-outline .btn--small}
 
 ## Micro-nano particle manipulation <a id="Particle">
