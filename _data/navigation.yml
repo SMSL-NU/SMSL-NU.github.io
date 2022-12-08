@@ -8,9 +8,6 @@ main:
     url: /Facilities/
   - title: "News"
     url: /News/
-    children:
-      - title: "Phase change"
-        url: /Phase_change/
   - title: "People"
     url: /People/
   - title: "Contact"
