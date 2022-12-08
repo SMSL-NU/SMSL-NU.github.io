@@ -1,7 +1,8 @@
 ---
 title:  "Facilities"
-layout: archive
+layout: single
 permalink: /Facilities/
+author_profile: true
 #sidebar:
 #  nav: "docs"
 comments: true
