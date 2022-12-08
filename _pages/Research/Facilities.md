@@ -2,8 +2,8 @@
 title:  "Facilities"
 layout: archive
 permalink: /Facilities/
-sidebar:
-  nav: "docs"
+#sidebar:
+#  nav: "docs"
 comments: true
 ---
 
